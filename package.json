@@ -1,0 +1,23 @@
+{
+  "name": "spinal-vue-components-nodes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spinalcom/spinal-vue-components-nodes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spinalcom/spinal-vue-components-nodes/issues"
+  },
+  "homepage": "https://github.com/spinalcom/spinal-vue-components-nodes#readme",
+  "dependencies": {
+    "spinal-vue-components-buttons": "git+https://github.com/spinalcom/spinal-vue-components-buttons.git",
+    "spinal-vue-components-color-markers": "git+https://github.com/spinalcom/spinal-vue-components-color-markers.git"
+  }
+}
