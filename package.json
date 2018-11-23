@@ -18,6 +18,7 @@
   "homepage": "https://github.com/spinalcom/spinal-vue-components-nodes#readme",
   "dependencies": {
     "spinal-vue-components-buttons": "git+https://github.com/spinalcom/spinal-vue-components-buttons.git",
-    "spinal-vue-components-color-markers": "git+https://github.com/spinalcom/spinal-vue-components-color-markers.git"
+    "spinal-vue-components-color-markers": "git+https://github.com/spinalcom/spinal-vue-components-color-markers.git",
+    "vue": "^2.5.17"
   }
 }
