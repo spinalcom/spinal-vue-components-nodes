@@ -44,7 +44,7 @@
             remove_red_eye
         </i>
 
-        <color-maker
+        <color-marker
                 class="node-color"
                 :color="color"
         />
@@ -54,11 +54,11 @@
 
 <script>
     import DropUpDownButton from "spinal-vue-components-buttons";
-    import ColorMaker from "spinal-vue-components-color-markers/Index";
+    import {ColorMarker} from "spinal-vue-components-color-markers";
 
     export default {
         name: "NodeHeader",
-        components: {ColorMaker, DropUpDownButton},
+        components: {ColorMarker, DropUpDownButton},
         props: {
 
             hasChild: {
