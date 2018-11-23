@@ -54,7 +54,7 @@
 
 <script>
     import DropUpDownButton from "spinal-vue-components-buttons";
-    import ColorMaker from "../ColorMarker/ColorMaker.vue";
+    import ColorMaker from "spinal-vue-components-color-markers";
 
     export default {
         name: "NodeHeader",
