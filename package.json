@@ -21,4 +21,5 @@
     "spinal-vue-components-color-markers": "git+https://github.com/spinalcom/spinal-vue-components-color-markers.git",
     "vue": "^2.5.17"
   }
+
 }
